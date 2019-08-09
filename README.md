@@ -1,2 +1,2 @@
-# This is a whiskey site with targeted at increasing sales
+# This is a whiskey site targeted at increasing sales
 
