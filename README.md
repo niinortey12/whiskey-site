@@ -1,5 +1,2 @@
-# my-second-website
-# bootstrap4
-# bootstrap4
-# bootstrap4
-# bootstrap4
+# This is a whiskey site with targeted at increasing sales
+
