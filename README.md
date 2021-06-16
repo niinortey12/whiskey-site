@@ -5,5 +5,7 @@
 **The whiskey brand** over the years have been a successful business over the years. 
 >Having this website will ky rocket their revenue and also target the right people in order to increase their revenue.
 
-Previous years | Now 
+YEAR           | Revenue 
 ---------------|-----------
+2018            | $2.8billion
+
